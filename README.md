@@ -11,6 +11,10 @@ Main project idea is to play '21' / blackjack/ 'oczko' game. Main rule for playe
 
 
 Project is based on Udemy courses such as: 
-[Statistics for Data Science and Business Analysis] (https://www.udemy.com/certificate/UC-ERUBFFGA)// The Data Science Course 2020: Complete Data Science Bootcamp/ Python dla poczatkujacych and many more
+[Statistics for Data Science and Business Analysis](https://www.udemy.com/certificate/UC-ERUBFFGA/)
+
+[The Data Science Course 2020: Complete Data Science Bootcamp](https://www.udemy.com/certificate/UC-JA9GKOTO/
+
+[Python dla poczatkujacych](https://www.udemy.com/certificate/UC-BHMEBA88/)
 
 Please do not copy or share without contacting.
